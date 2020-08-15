@@ -1183,7 +1183,7 @@
         "type": "object",
         "properties": {
           "url": {
-            "description": "The spaces website according to their SpaceAPI endpoint",
+            "description": "The space's website according to their SpaceAPI endpoint",
             "type": "string"
           }
         },
